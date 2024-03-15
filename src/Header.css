@@ -1,0 +1,22 @@
+#navbar{
+    background-color: #131921;
+    
+}
+#Company{
+    color:white;
+}
+#icoCart{
+    font-size: 32px;
+}
+#flag{
+    height: 20px;
+    width:20px
+
+}
+a:hover{
+    border:1px solid white
+
+}
+input[type=text]:focus{
+    border: 1px solid rgb(238, 163, 66);
+}
