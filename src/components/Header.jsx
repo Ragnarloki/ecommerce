@@ -21,12 +21,7 @@ function Header(){
   <a className="text-decoration-none text-dark dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
     All
   </a>
-  <ul className="dropdown-menu">
-    <li><a class="dropdown-item" href="#">Action</a></li>
-    <li><a class="dropdown-item" href="#">Another action</a></li>
-    <li><a class="dropdown-item" href="#">Something else here</a></li>
-  </ul>
-</div></span>
+  </div></span>
   <input type="text" className="form-control "  placeholder="Search .." aria-label="Recipient's username" aria-describedby="basic-addon2" />
   <span className="input-group-text bg-warning text-dark" id="basic-addon2"><i class="bi bi-search"></i></span>
 </div> 
